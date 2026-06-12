@@ -1,6 +1,6 @@
 # Social Media Content Scheduler
 
-A comprehensive web application for scheduling and publishing content across multiple social media platforms (Twitter, LinkedIn, Instagram) with built-in analytics tracking.
+Multi-platform social media scheduling app with calendar planning, post management, and engagement analytics using Next.js, TypeScript, and API integrations.
 
 ## Features
 
