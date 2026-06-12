@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Calendar from 'react-calendar';
 import { motion } from 'framer-motion';
-import { FiPlus, FiCalendar, FiBarChart2, FiSettings } from 'react-icons/fi';
+import { FiPlus, FiCalendar, FiBarChart2 } from 'react-icons/fi';
 import 'react-calendar/dist/Calendar.css';
 
 export default function Dashboard() {
